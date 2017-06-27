@@ -1,0 +1,1020 @@
+2017-05-02 11:23:31,581 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:23:33,674 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:33,676 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:23:33,681 [Worker-55] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:33,682 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:23:33,712 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rest-webservice/src
+2017-05-02 11:23:33,713 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-rest-webservice/src/test/java because it overlaps with /spring-rest-webservice/src
+2017-05-02 11:23:35,257 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:35,259 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:23:35,261 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:35,263 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:23:36,064 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 11:23:36,623 [Worker-52] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:23:37,608 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rest-webservice/src
+2017-05-02 11:23:37,609 [Worker-52] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-rest-webservice/src/test/java because it overlaps with /spring-rest-webservice/src
+2017-05-02 11:23:38,143 [Worker-52] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rest-webservice
+2017-05-02 11:23:38,167 [Worker-52] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-05-02 11:23:38,381 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:38,382 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:23:38,384 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:23:38,385 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:23:38,386 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:23:38,387 [Worker-51] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:23:38,438 [Worker-51] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2017-05-02 11:27:26,164 [Worker-56] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:27:26,952 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:27:26,952 [Worker-56] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:28:03,357 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 11:28:04,013 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:28:04,797 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rest-webservice/src
+2017-05-02 11:28:04,797 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-rest-webservice/src/test/java because it overlaps with /spring-rest-webservice/src
+2017-05-02 11:28:05,455 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rest-webservice
+2017-05-02 11:28:05,465 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-05-02 11:28:05,935 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:28:05,935 [Worker-57] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:28:34,540 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:28:35,221 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:28:35,222 [Worker-60] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:29:05,749 [Worker-59] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:29:08,285 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:08,285 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:08,285 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:08,289 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:08,289 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:29:08,289 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:29:08,289 [Worker-59] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:29:08,294 [Worker-59] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.6.1 is missing, no dependency information available
+2017-05-02 11:29:08,302 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:46,665 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:29:47,871 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:47,871 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:47,871 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:47,874 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:47,874 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:29:49,394 [Worker-57] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:29:50,873 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:50,874 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:50,874 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:29:50,876 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:29:50,877 [Worker-57] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:30:15,533 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 11:30:16,297 [Worker-58] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 11:30:17,275 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rest-webservice/src
+2017-05-02 11:30:17,275 [Worker-58] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-rest-webservice/src/test/java because it overlaps with /spring-rest-webservice/src
+2017-05-02 11:30:17,994 [Worker-58] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rest-webservice
+2017-05-02 11:30:18,016 [Worker-58] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2017-05-02 11:30:19,238 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:30:19,239 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:30:19,239 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:30:19,241 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:30:19,242 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:30:19,242 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 11:30:19,242 [Worker-64] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 11:30:19,281 [Worker-64] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:36:29,271 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:36:29,271 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:36:29,271 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:36:29,273 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:36:29,273 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:39:04,352 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:39:04,352 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:39:04,352 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:39:04,356 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:39:04,357 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:40:45,990 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:40:45,990 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:40:45,990 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:40:45,993 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:40:45,993 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:41:32,018 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:41:32,019 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:41:32,019 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:41:32,023 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:41:32,024 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:42:06,392 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:42:06,392 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:42:06,392 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:42:06,395 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:42:06,395 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:42:15,741 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:42:15,741 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:42:15,742 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:42:15,746 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:42:15,746 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:43:41,437 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:43:41,437 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:43:41,437 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:43:41,443 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:43:41,443 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:44:01,134 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:01,134 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:01,134 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:01,137 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:01,137 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:44:16,141 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:16,141 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:16,141 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:16,144 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:16,144 [Worker-71] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:44:22,659 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:22,660 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:22,660 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:44:22,664 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:44:22,664 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:51:10,660 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:10,660 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:10,660 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:10,664 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:10,664 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:51:17,864 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:17,865 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:17,865 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:17,869 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:17,869 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:51:42,236 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:42,237 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:42,237 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:51:42,241 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:51:42,241 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:52:01,564 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:52:01,565 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:52:01,565 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:52:01,569 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:52:01,569 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:54:31,696 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:54:31,696 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:54:31,696 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:54:31,701 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:54:31,701 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:54:42,895 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:54:42,895 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:54:42,896 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:54:42,898 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:54:42,898 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:55:04,300 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:04,300 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:04,301 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:04,304 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:04,304 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:55:22,588 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:22,589 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:22,589 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:22,591 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:22,591 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:55:56,480 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:56,480 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:56,480 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:55:56,484 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:55:56,484 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:56:17,979 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:56:17,980 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:56:17,980 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:56:17,982 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:56:17,983 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:56:23,610 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:56:23,610 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:56:23,610 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:56:23,614 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:56:23,614 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:57:47,287 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:57:47,287 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:57:47,287 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:57:47,295 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:57:47,296 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:58:13,206 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:13,206 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:13,206 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:13,210 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:13,210 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:58:24,246 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:24,246 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:24,246 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:24,251 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:24,251 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:58:57,135 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:57,136 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:57,136 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:58:57,140 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:58:57,140 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:59:06,766 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:59:06,766 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:59:06,766 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:59:06,770 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:59:06,770 [Worker-80] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 11:59:20,483 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:59:20,483 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:59:20,484 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 11:59:20,487 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 11:59:20,488 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:00:02,857 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:02,858 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:02,858 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:02,862 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:02,862 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:00:05,275 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:05,275 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:05,275 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:05,278 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:05,278 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:00:32,462 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:32,462 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:32,463 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:32,466 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:32,467 [Worker-82] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:00:40,691 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:40,691 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:40,691 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:00:40,693 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:00:40,693 [Worker-83] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:01:02,647 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:01:02,647 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:01:02,648 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:01:02,651 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:01:02,652 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:03:22,958 [Worker-85] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2017-05-02 12:03:29,943 [Worker-85] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 12:03:34,560 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /spring-rest-webservice/src
+2017-05-02 12:03:34,561 [Worker-85] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Not adding source folder /spring-rest-webservice/src/test/java because it overlaps with /spring-rest-webservice/src
+2017-05-02 12:03:34,889 [Worker-85] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for spring-rest-webservice
+2017-05-02 12:03:34,931 [Worker-85] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 11 sec
+2017-05-02 12:03:36,780 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:03:36,780 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:03:36,781 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:03:36,786 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:03:36,786 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:03:36,786 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 12:03:36,786 [Worker-86] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 12:03:36,794 [Worker-86] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:09:44,052 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:09:44,052 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:09:44,052 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:09:44,058 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:09:44,058 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:15:49,612 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:15:49,612 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:15:49,613 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:15:49,618 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:15:49,619 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:16:02,972 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:02,972 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:02,972 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:02,976 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:02,976 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:16:09,968 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:09,968 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:09,968 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:09,972 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:09,972 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:16:53,064 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:53,065 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:53,065 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:16:53,069 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:16:53,069 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:21:02,525 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:21:02,525 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:21:02,525 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:21:02,529 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:21:02,529 [Worker-126] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:26:19,403 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:26:19,404 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:26:19,404 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:26:19,407 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:26:19,407 [Worker-135] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:29:00,760 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:29:00,760 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:29:00,761 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:29:00,765 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:29:00,766 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:30:05,288 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:30:05,288 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:30:05,288 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:30:05,293 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:30:05,293 [Worker-133] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:31:01,607 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:31:01,608 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:31:01,608 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:31:01,611 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:31:01,611 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:34:52,804 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:34:52,804 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:34:52,804 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:34:52,808 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:34:52,808 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:35:15,028 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:35:15,029 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:35:15,029 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:35:15,031 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:35:15,032 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:38:10,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:38:10,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:38:10,064 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:38:10,068 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:38:10,069 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:39:58,709 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:39:58,710 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:39:58,711 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:39:58,713 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:39:58,714 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:43:06,181 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:06,181 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:06,181 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:06,184 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:06,184 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:43:10,204 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:10,204 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:10,204 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:10,209 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:10,209 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:43:35,751 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:35,751 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:35,751 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:43:35,755 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:43:35,755 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:44:28,051 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:44:28,051 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:44:28,051 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:44:28,055 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:44:28,055 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:44:36,590 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @5773121ms
+2017-05-02 12:44:36,990 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-05-02 12:44:37,137 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@fc91f8{/help,null,AVAILABLE}
+2017-05-02 12:44:37,182 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@1d13a50{HTTP/1.1,[http/1.1]}{127.0.0.1:55411}
+2017-05-02 12:44:37,183 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @5773714ms
+2017-05-02 12:46:36,107 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:46:36,107 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:46:36,107 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:46:36,111 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:46:36,112 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:46:37,552 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:46:37,552 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:46:37,552 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:46:37,556 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:46:37,556 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:48:10,075 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:10,075 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:10,075 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:10,078 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:10,078 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:48:40,863 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:40,864 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:40,864 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:40,869 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:40,869 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:48:50,960 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:50,960 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:50,960 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:50,964 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:50,964 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:48:52,082 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:52,082 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:52,082 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:48:52,086 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:48:52,086 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:49:44,660 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:49:44,660 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:49:44,660 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:49:44,664 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:49:44,664 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:51:06,176 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:51:06,176 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:51:06,176 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:51:06,179 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:51:06,179 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:51:49,116 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:51:49,116 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:51:49,116 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:51:49,119 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:51:49,120 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:52:12,029 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:12,029 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:12,029 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:12,032 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:12,032 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:52:20,956 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:20,957 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:20,957 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:20,959 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:20,959 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:52:25,328 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:25,328 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:25,328 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:25,331 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:25,331 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:52:30,504 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:30,505 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:30,505 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:52:30,512 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:52:30,512 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 12:54:42,787 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:54:42,788 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:54:42,788 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 12:54:42,790 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 12:54:42,791 [Worker-149] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:01:48,130 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:01:48,130 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:01:48,130 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:01:48,134 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:01:48,135 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:06:00,155 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:06:00,155 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:06:00,155 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:06:00,158 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:06:00,159 [Worker-137] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:11:35,685 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:11:35,685 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:11:35,686 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:11:35,690 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:11:35,690 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:11:38,656 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:11:38,657 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:11:38,657 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:11:38,661 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:11:38,661 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:12:20,692 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:20,693 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:20,693 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:20,699 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:20,699 [Worker-155] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:12:26,860 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:26,861 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:26,861 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:26,864 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:26,865 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:12:30,570 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:30,570 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:30,570 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:12:30,575 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:12:30,575 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:39:20,549 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 13:39:43,875 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:39:43,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:39:43,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:39:43,879 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:39:43,879 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:46:43,547 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:46:43,548 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:46:43,548 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:46:43,553 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:46:43,553 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:46:58,826 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:46:58,827 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:46:58,827 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:46:58,831 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:46:58,831 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:48:35,240 [Worker-29] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 13:48:37,298 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.pom
+2017-05-02 13:48:37,646 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.pom
+2017-05-02 13:48:37,992 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2017-05-02 13:48:38,346 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/jackson-parent/2.4/jackson-parent-2.4.pom
+2017-05-02 13:48:38,691 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2017-05-02 13:48:38,962 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/oss-parent/16/oss-parent-16.pom
+2017-05-02 13:48:39,344 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.jar
+2017-05-02 13:48:40,592 [Worker-29] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.4.1/jackson-databind-2.4.1.jar
+2017-05-02 13:48:42,926 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:48:42,927 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:48:42,927 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:48:42,932 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:48:42,933 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:48:42,935 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 13:48:42,939 [Worker-29] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 13:48:42,946 [Worker-29] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for org.apache.maven.plugins:maven-clean-plugin:jar:2.6.1 is missing, no dependency information available
+2017-05-02 13:48:42,972 [Worker-29] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:48:46,101 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:48:46,102 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:48:46,102 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:48:46,105 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:48:46,105 [Worker-24] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:49:28,891 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:49:28,892 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:49:28,892 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:49:28,896 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:49:28,896 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:50:40,691 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:50:40,691 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:50:40,691 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:50:40,695 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:50:40,695 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:51:46,954 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:51:46,954 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:51:46,954 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:51:46,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:51:46,958 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:51:51,935 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:51:51,936 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:51:51,936 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:51:51,939 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:51:51,939 [Worker-38] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:54:13,770 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:54:13,771 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:54:13,771 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:54:13,776 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:54:13,776 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:54:20,456 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:54:20,457 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:54:20,457 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:54:20,461 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:54:20,461 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:55:02,591 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:55:02,591 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:55:02,591 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:55:02,596 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:55:02,596 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 13:55:05,309 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:55:05,309 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:55:05,310 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 13:55:05,314 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 13:55:05,314 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:05:12,946 [Worker-45] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 14:06:27,450 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:06:27,450 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:06:27,451 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:06:27,575 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:06:27,575 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:06:27,650 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 14:06:27,650 [Worker-45] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 14:06:27,719 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:07:59,191 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 14:08:34,134 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:08:34,134 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:08:34,134 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:08:34,137 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:08:34,138 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:08:34,139 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 14:08:34,139 [Worker-55] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 14:08:34,146 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:19:07,296 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:19:07,296 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:19:07,296 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:19:07,300 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:19:07,300 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:19:52,043 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:19:52,044 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:19:52,044 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:19:52,050 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:19:52,051 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:20:10,828 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:20:10,828 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:20:10,828 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:20:10,830 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:20:10,831 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:20:12,929 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:20:12,929 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:20:12,929 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:20:12,932 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:20:12,932 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:22:13,970 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:22:13,971 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:22:13,971 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:22:13,976 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:22:13,976 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:22:44,902 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:22:44,902 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:22:44,902 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:22:44,905 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:22:44,905 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:23:26,770 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:23:26,771 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:23:26,771 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:23:26,775 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:23:26,776 [Worker-70] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:24:16,344 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:24:16,344 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:24:16,345 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:24:16,351 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:24:16,352 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:24:21,518 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:24:21,519 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:24:21,519 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:24:21,523 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:24:21,523 [Worker-65] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:25:52,062 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:25:52,063 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:25:52,063 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:25:52,067 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:25:52,067 [Worker-51] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:25:55,577 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:25:55,578 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:25:55,578 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:25:55,582 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:25:55,582 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:26:53,049 [Worker-66] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:26:53,078 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:26:53,078 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:26:53,078 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:26:53,083 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:26:53,083 [Worker-66] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:27:17,111 [Worker-67] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:27:17,117 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:17,117 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:17,117 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:17,122 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:17,122 [Worker-67] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:27:32,497 [Worker-69] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:27:32,504 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:32,505 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:32,505 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:32,510 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:32,510 [Worker-69] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:27:57,822 [Worker-68] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:27:57,828 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:57,828 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:57,828 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:27:57,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:27:57,833 [Worker-68] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:31:25,830 [Worker-75] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:31:25,836 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:31:25,836 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:31:25,836 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:31:25,839 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:31:25,840 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:34:07,544 [Worker-75] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:34:07,551 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:34:07,551 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:34:07,551 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:34:07,556 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:34:07,556 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:34:09,720 [Worker-75] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:34:09,725 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:34:09,725 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:34:09,725 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:34:09,728 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:34:09,728 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:35:07,545 [Worker-74] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:35:07,552 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:35:07,552 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:35:07,553 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:35:07,557 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:35:07,557 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:39:43,477 [Worker-74] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:39:43,484 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:39:43,484 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:39:43,485 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:39:43,487 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:39:43,487 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:47:57,319 [Worker-74] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:47:57,326 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:47:57,327 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:47:57,327 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:47:57,330 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:47:57,330 [Worker-74] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:47:58,782 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:47:58,791 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:47:58,792 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:47:58,792 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:47:58,796 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:47:58,796 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:51:00,094 [Worker-88] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:51:00,099 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:51:00,100 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:51:00,100 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:51:00,102 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:51:00,102 [Worker-88] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 14:52:13,305 [Worker-92] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 14:52:13,311 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:52:13,311 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:52:13,311 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 14:52:13,316 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 14:52:13,316 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:00:10,656 [Worker-94] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:00:10,665 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:10,666 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:10,666 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:10,669 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:10,670 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:00:19,098 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:00:24,150 [Worker-95] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.spring.rest.webservice:springrestWS:0.0.1-SNAPSHOT @ D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\pom.xml.
+2017-05-02 15:00:25,597 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.8.6/jackson-dataformat-xml-2.8.6.pom
+2017-05-02 15:00:25,877 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.8.6/jackson-dataformat-xml-2.8.6.pom
+2017-05-02 15:00:26,180 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.6/jackson-module-jaxb-annotations-2.8.6.pom
+2017-05-02 15:00:26,455 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.6/jackson-module-jaxb-annotations-2.8.6.pom
+2017-05-02 15:00:26,771 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.pom
+2017-05-02 15:00:27,020 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.pom
+2017-05-02 15:00:27,253 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-05-02 15:00:27,606 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom
+2017-05-02 15:00:27,861 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.pom
+2017-05-02 15:00:28,156 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.pom
+2017-05-02 15:00:28,668 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.8.6/jackson-dataformat-xml-2.8.6.jar
+2017-05-02 15:00:29,252 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-xml/2.8.6/jackson-dataformat-xml-2.8.6.jar
+2017-05-02 15:00:29,459 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.6/jackson-module-jaxb-annotations-2.8.6.jar
+2017-05-02 15:00:29,767 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.8.6/jackson-module-jaxb-annotations-2.8.6.jar
+2017-05-02 15:00:30,164 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar
+2017-05-02 15:00:30,710 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/codehaus/woodstox/stax2-api/3.1.4/stax2-api-3.1.4.jar
+2017-05-02 15:00:31,072 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.jar
+2017-05-02 15:00:31,526 [Worker-95] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/fasterxml/woodstox/woodstox-core/5.0.3/woodstox-core-5.0.3.jar
+2017-05-02 15:00:38,112 [Worker-95] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:00:40,606 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:40,606 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:40,607 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:40,611 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:40,611 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:00:40,612 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of spring-rest-webservice
+2017-05-02 15:00:40,612 [Worker-95] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for spring-rest-webservice
+2017-05-02 15:00:40,621 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:44,166 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:00:44,171 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:44,171 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:44,171 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:00:44,173 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:00:44,173 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:02:16,686 [Worker-100] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:02:16,694 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:02:16,694 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:02:16,694 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:02:16,697 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:02:16,698 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:02:31,752 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:02:31,758 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:02:31,758 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:02:31,758 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:02:31,761 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:02:31,761 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:03:31,137 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:03:31,142 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:31,143 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:31,143 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:31,146 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:31,146 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:03:35,077 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:03:35,085 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:35,085 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:35,085 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:35,094 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:35,095 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:03:40,424 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:03:40,433 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:40,433 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:40,434 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:03:40,437 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:03:40,437 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:04:16,933 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:04:16,942 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:16,942 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:16,942 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:16,946 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:16,946 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:04:19,077 [Worker-101] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:04:19,083 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:19,083 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:19,083 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:19,085 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:19,085 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:04:52,982 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:04:52,987 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:52,987 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:52,987 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:52,989 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:52,989 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:04:56,197 [Worker-99] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:04:56,201 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:56,201 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:56,201 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:56,203 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:56,204 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:04:59,357 [Worker-98] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:04:59,362 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:59,362 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:59,362 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:04:59,364 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:04:59,365 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:11:45,948 [Worker-102] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:11:45,964 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:11:45,964 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:11:45,964 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:11:45,964 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:11:45,964 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:12:49,035 [Worker-103] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:12:49,040 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:12:49,040 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:12:49,040 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:12:49,043 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:12:49,043 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:13:21,110 [Worker-104] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:13:21,117 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:13:21,117 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:13:21,117 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:13:21,120 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:13:21,120 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:40:39,223 [Worker-113] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:40:39,329 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:39,329 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:39,329 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:39,335 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:39,335 [Worker-113] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:40:40,796 [Worker-115] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:40:40,801 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:40,801 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:40,801 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:40,804 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:40,804 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:40:43,329 [Worker-115] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:40:43,333 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:43,333 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:43,333 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:40:43,336 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:40:43,336 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:42:39,643 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:42:39,647 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:42:39,647 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:42:39,648 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:42:39,650 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:42:39,650 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:43:37,581 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:43:37,587 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:43:37,587 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:43:37,587 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:43:37,592 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:43:37,593 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:44:00,578 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @7640613ms
+2017-05-02 15:44:01,051 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.3.9.v20160517
+2017-05-02 15:44:01,153 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@1f1c81c{/help,null,AVAILABLE}
+2017-05-02 15:44:01,276 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@11f87d3{HTTP/1.1,[http/1.1]}{127.0.0.1:49495}
+2017-05-02 15:44:01,277 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @7641312ms
+2017-05-02 15:46:11,288 [Worker-116] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:46:11,295 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:46:11,295 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:46:11,296 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:46:11,300 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:46:11,300 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:47:44,494 [Worker-120] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:47:44,507 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:47:44,507 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:47:44,508 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:47:44,511 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:47:44,512 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:47:47,437 [Worker-117] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:47:47,442 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:47:47,442 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:47:47,442 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:47:47,446 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:47:47,447 [Worker-117] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:53:33,228 [Worker-121] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:53:33,238 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:53:33,238 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:53:33,238 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:53:33,245 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:53:33,245 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 15:54:15,725 [Worker-121] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 15:54:15,735 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:54:15,735 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:54:15,735 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 15:54:15,740 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 15:54:15,740 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:03:08,201 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:03:08,402 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:03:08,402 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:03:08,402 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:03:08,405 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:03:08,405 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:04:08,323 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:04:08,343 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:08,344 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:08,344 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:08,348 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:08,348 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:04:12,221 [Worker-125] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:04:12,231 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:12,232 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:12,232 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:12,236 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:12,236 [Worker-125] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:04:14,323 [Worker-128] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:04:14,329 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:14,329 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:14,329 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:04:14,332 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:04:14,332 [Worker-128] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:20:29,609 [Worker-145] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:20:29,792 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:20:29,792 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:20:29,793 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:20:29,796 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:20:29,796 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:22:11,572 [Worker-148] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:22:11,581 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:22:11,581 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:22:11,581 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:22:11,586 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:22:11,586 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:22:35,821 [Worker-139] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:22:35,828 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:22:35,829 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:22:35,829 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:22:35,834 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:22:35,834 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:27:50,302 [Worker-147] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:27:50,448 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:27:50,449 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:27:50,449 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:27:50,452 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:27:50,452 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:29:20,944 [Worker-148] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:29:20,951 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:29:20,951 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:29:20,951 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:29:20,954 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:29:20,954 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:57:15,189 [Worker-160] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:57:15,220 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:57:15,220 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:57:15,220 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:57:15,220 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:57:15,220 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 16:57:51,317 [Worker-157] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 16:57:51,317 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:57:51,317 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:57:51,317 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 16:57:51,333 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 16:57:51,333 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:06:58,484 [Worker-160] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:06:58,628 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:06:58,629 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:06:58,629 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:06:58,635 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:06:58,636 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:08:03,482 [Worker-157] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:08:03,489 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:08:03,489 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:08:03,490 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:08:03,493 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:08:03,494 [Worker-157] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:08:06,718 [Worker-167] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:08:06,723 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:08:06,723 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:08:06,723 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:08:06,726 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:08:06,726 [Worker-167] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:11:46,295 [Worker-168] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:11:46,303 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:11:46,303 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:11:46,303 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:11:46,307 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:11:46,307 [Worker-168] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:16:59,802 [Worker-174] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:16:59,814 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:16:59,815 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:16:59,815 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:16:59,819 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:16:59,820 [Worker-174] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:17:31,257 [Worker-177] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:17:31,270 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:17:31,270 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:17:31,270 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:17:31,274 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:17:31,274 [Worker-177] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:23:26,271 [Worker-173] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:23:26,284 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:23:26,284 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:23:26,285 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:23:26,289 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:23:26,289 [Worker-173] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:24:07,607 [Worker-176] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:24:07,614 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:24:07,614 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:24:07,615 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:24:07,619 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:24:07,619 [Worker-176] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:24:08,994 [Worker-183] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:24:09,001 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:24:09,002 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:24:09,002 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:24:09,006 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:24:09,007 [Worker-183] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:33:48,130 [Worker-188] ERROR o.e.m.c.i.URLConnectionCaches - Unexpected URLConnection defaultUseCaches enabled
+2017-05-02 17:33:48,137 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:33:48,137 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:33:48,137 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-02 17:33:48,141 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-02 17:33:48,142 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-02 17:44:53,429 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@11f87d3{HTTP/1.1,[http/1.1]}{127.0.0.1:0}
+2017-05-02 17:44:53,906 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@1f1c81c{/help,null,UNAVAILABLE}
+2017-05-11 12:30:26,601 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 12:30:26,633 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-11 12:30:26,633 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-11 12:30:26,638 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-11 12:30:26,638 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-12 10:20:10,908 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:20:11,071 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-12 10:20:11,071 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-12 10:20:11,076 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 10:20:11,076 [Worker-18] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-12 15:23:16,398 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 15:23:16,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-12 15:23:16,402 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-12 15:23:16,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-12 15:23:16,405 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-05-15 11:29:45,234 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 11:29:45,246 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-15 11:29:45,246 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-05-15 11:29:45,249 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-05-15 11:29:45,249 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-06-06 11:30:59,266 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-06 11:30:59,303 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-06-06 11:30:59,304 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-06-06 11:30:59,310 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-06 11:30:59,310 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
+2017-06-07 12:15:45,429 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 12:15:45,442 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-06-07 12:15:45,443 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\main\resources
+2017-06-07 12:15:45,446 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2017-06-07 12:15:45,446 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\Workspaces\Spring-rest-WebServiceTutorial\spring-rest-webservice\src\test\resources
